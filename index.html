@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Movie Mood Recommender</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div class="container">
+        <div class="header">
+            <h1>🎬 Movie Mood Recommender ✨</h1>
+            <p>Describe your mood, and we'll find perfect movies for you</p>
+        </div>
+
+        <div class="search-box">
+            <input 
+                type="text" 
+                id="moodInput" 
+                placeholder="How are you feeling? (e.g., happy, sad, excited...)"
+            >
+            <button id="searchBtn">Find Movies</button>
+        </div>
+
+        <div id="error" class="error"></div>
+        <div id="loading" class="loading">Finding perfect movies for your mood...</div>
+        <div id="moviesGrid" class="movies-grid"></div>
+    </div>
+
+    <script src="script.js"></script>
+</body>
+</html>
