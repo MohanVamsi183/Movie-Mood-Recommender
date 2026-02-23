@@ -2,9 +2,9 @@
 
 
 
-A simple web application that recommends movies based on your current mood using the TMDB API.
+A web application that recommends movies based on your current mood using the TMDB API.
 
-
+---
 
 ## Features
 
@@ -16,9 +16,9 @@ A simple web application that recommends movies based on your current mood using
 
   - Powered by TMDB API
 
+---
 
-
-## How to Use
+## How to use
 
   1. Visit the website (index.html)
 
@@ -26,7 +26,7 @@ A simple web application that recommends movies based on your current mood using
   
   3. Click "Find Movies" to get recommendations
 
-
+---
 
 ## Tech Stack
 
@@ -38,7 +38,7 @@ A simple web application that recommends movies based on your current mood using
 
   - TMDB API
 
-
+---
 
 ## Setup
 
@@ -48,6 +48,13 @@ A simple web application that recommends movies based on your current mood using
 
   3. Open `index.html` in your browser
 
+---
+
+##Author
+
+Mohan Vamsi Varadaraju Priya
+
+---
 
 ## License
 
